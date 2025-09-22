@@ -23,3 +23,4 @@ This repository contains simple network configuration examples for learning and 
 ## Notes
 - These configurations are for educational purposes.
 - Ensure you understand the command structure before applying to live networks.
+<img width="1524" height="596" alt="ss" src="https://github.com/user-attachments/assets/6bb6cc37-2993-4ae1-bc09-ced71ac46414" />
