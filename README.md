@@ -24,3 +24,7 @@ This repository contains simple network configuration examples for learning and 
 - These configurations are for educational purposes.
 - Ensure you understand the command structure before applying to live networks.
 <img width="1524" height="596" alt="ss" src="https://github.com/user-attachments/assets/6bb6cc37-2993-4ae1-bc09-ced71ac46414" />
+
+<img width="1632" height="763" alt="pc ping " src="https://github.com/user-attachments/assets/7805763a-f256-411e-8e53-809dcba679f0" />
+
+<img width="1919" height="820" alt="Screenshot 2025-09-23 032642" src="https://github.com/user-attachments/assets/4640e86d-17b4-40be-9a4c-1f2f2fe97fde" />
