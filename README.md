@@ -1,6 +1,8 @@
 # Network Configurations Repository
 
-This repository contains simple network configuration examples for learning and practice purposes. It includes configurations for RIP, EIGRP, and a combination of RIP-OSPF protocols.
+This repository contains simple network configuration examples for learning and practice purposes. It includes configurations for **RIP**, **EIGRP**, and a combination of **RIP-OSPF** protocols.
+
+---
 
 ## Contents
 
@@ -15,20 +17,28 @@ This repository contains simple network configuration examples for learning and 
    - Combined RIP and OSPF configuration examples
    - Demonstrates redistribution between RIP and OSPF
 
+---
+
 ## Usage
 - Unzip the desired folder.
 - Open the Packet Tracer file (or configuration file) in your simulator.
 - Follow the commands in the `.pkt` or `.txt` file to replicate the configuration.
 
+---
+
 ## Notes
 - These configurations are for educational purposes.
 - Ensure you understand the command structure before applying to live networks.
 
-- SIMPLE RIP
-<img width="1524" height="596" alt="ss" src="https://github.com/user-attachments/assets/6bb6cc37-2993-4ae1-bc09-ced71ac46414" />
+---
 
--SIMPLE EIGRP 
-<img width="1632" height="763" alt="pc ping " src="https://github.com/user-attachments/assets/7805763a-f256-411e-8e53-809dcba679f0" />
+## Topology Images
 
--SIMPLE RIP/OSPF(Multi area Network)
-<img width="1919" height="820" alt="Screenshot 2025-09-23 032642" src="https://github.com/user-attachments/assets/4640e86d-17b4-40be-9a4c-1f2f2fe97fde" />
+### 1. Simple RIP
+![Simple RIP](https://github.com/user-attachments/assets/6bb6cc37-2993-4ae1-bc09-ced71ac46414)
+
+### 2. Simple EIGRP
+![Simple EIGRP](https://github.com/user-attachments/assets/7805763a-f256-411e-8e53-809dcba679f0)
+
+### 3. Simple RIP/OSPF (Multi-area Network)
+![RIP/OSPF Multi-area](https://github.com/user-attachments/assets/4640e86d-17b4-40be-9a4c-1f2f2fe97fde)
